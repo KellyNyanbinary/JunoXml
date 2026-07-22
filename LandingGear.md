@@ -9,7 +9,7 @@
 |`bayWidth`|`float`|Changes the width of the landing gear bay|
 |`brakeTorque`|`float`|Changes the torque applied to the wheel when brake is applied.|
 |`damperScale`|`float`|Higher damper settings can help to reduce oscillation. Lower damper settings allow more oscillation.|
-|`extended`|`Nullable`1`||
+|`extended`|`Nullable`||
 |`extensionPercent`|`float`||
 |`flipped`|`bool`|Mirrors the offsets of the landing gear|
 |`forwardOffset`|`float`|Changes the forward offset of the wheel's position|
